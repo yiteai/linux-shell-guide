@@ -33,7 +33,9 @@
 ---
 ## 中文版
 
-# Shell 环境搭建
+# Linux Shell 从入门到内核贡献
+
+> 五层深度，适合新手到内核贡献者。文件系统/inode/权限/进程原理、Shell 脚本工程化（shellcheck/bats/trap）、systemd/cgroup/eBPF/perf 性能分析、namespace/seccomp 容器底层、系统调用与内核开发流程。20 章，完全免费。
 
 **📖 在线免费阅读全文:[https://tools.yiteai.com/books/linux-shell](https://tools.yiteai.com/books/linux-shell)**
 
